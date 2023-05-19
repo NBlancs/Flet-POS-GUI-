@@ -1,0 +1,5 @@
+*ID     *NAME                               *PRICE          *IN         *IMAGE
+ID:0      NAME:Apple                                        PRICE:50.0     IN:25     IMAGE:f"pics/apple.png"
+ID:1      NAME:Mango                                        PRICE:80.0     IN:230    IMAGE:f"pics/mango.png"
+ID:2      NAME:Grapes                                       PRICE:75.0     IN:9      IMAGE:f"pics/grapes.jpg"
+ID:3      NAME:Strawberry                                   PRICE:100.0    IN:80     IMAGE:f"pics/grapes.jpg"
